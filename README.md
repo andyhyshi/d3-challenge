@@ -1,3 +1,7 @@
+
+Click [here](https://andyhyshi.github.io/d3-challenge/StarterCode/) to view the live page. 
+
+
 # D3 Homework - Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
